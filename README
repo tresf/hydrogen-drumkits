@@ -1,0 +1,15 @@
+Hydrogen Drumkits for LMMS
+==========================
+
+Copyright (c) 2010 LMMS developers
+
+
+This package contains various drumkits by the Hydrogen project and makes
+it available to LMMS. All WAV and AIFF files were re-encoded using FLAC.
+Most drumkits come with a LICENSE or COPYING file which contains information
+on the licence under which the according drumkit is licensed under. In most
+other cases the drumkits.xml file provides further information about about
+the licence. If no licence is specified, General Public Licence v2 (GPLv2)
+is assumed.
+
+
