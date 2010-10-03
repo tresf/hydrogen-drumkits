@@ -38,10 +38,10 @@ ENDMACRO(INSTALL_DRUMKIT)
 
 
 # add/install actual drumkits
-SET(DRUMITS 3355606kit BJA_Pacific "Boss DR-110" "circAfrique v4" Classic-626 Classic-808 ColomboAcousticDrumkit DeathMetal EasternHop-1 ElectricEmpireKit ErnysPercussion HardElectro1 HipHop-1 HipHop-2 K-27_Trash_Kit Millo-Drums_v.1 Millo_MultiLayered2 Millo_MultiLayered3 Synthie-1 TD-7kit Techno-1 TR808909 VariBreaks YamahaVintageKit)
-FOREACH(drumkit ${DRUMITS})
+SET(DRUMKITS 3355606kit BJA_Pacific "Boss DR-110" "circAfrique v4" Classic-626 Classic-808 ColomboAcousticDrumkit DeathMetal EasternHop-1 ElectricEmpireKit ErnysPercussion HardElectro1 HipHop-1 HipHop-2 K-27_Trash_Kit Millo-Drums_v.1 Millo_MultiLayered2 Millo_MultiLayered3 Synthie-1 TD-7kit Techno-1 TR808909 VariBreaks YamahaVintageKit)
+FOREACH(drumkit ${DRUMKITS})
 	INSTALL_DRUMKIT(${drumkit} "*.flac;*.html;drumkit.xml;COPYING;README;LICENCE")
-ENDFOREACH(drumkit ${DRUMITS})
+ENDFOREACH(drumkit ${DRUMKITS})
 
 
 #
