@@ -1,0 +1,168 @@
+<drumkit_info>
+    <name>HardElectro1</name>
+    <author>ArtemioLabs [www.artemiolabs.com]</author>
+    <info>A perfect kit for electron, hard house and techno. All sounds synthesized at ArtemioLabs.</info>
+    <license>GPL</license>
+    <instrumentList>
+        <instrument>
+            <id>0</id>
+            <filename>HardHse_K_02.flac</filename>
+            <name>Kick 1</name>
+            <volume>1</volume>
+            <isMuted>false</isMuted>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <exclude />
+        </instrument>
+        <instrument>
+            <id>1</id>
+            <filename>HardHse_K_03_B.flac</filename>
+            <name>Kick 2</name>
+            <volume>1</volume>
+            <isMuted>false</isMuted>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <exclude />
+        </instrument>
+        <instrument>
+            <id>2</id>
+            <filename>PowR_BD_1.flac</filename>
+            <name>Kick 3</name>
+            <volume>1</volume>
+            <isMuted>false</isMuted>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <exclude />
+        </instrument>
+        <instrument>
+            <id>3</id>
+            <filename>PowR_SN_1.flac</filename>
+            <name>Snare</name>
+            <volume>0.88</volume>
+            <isMuted>false</isMuted>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <exclude />
+        </instrument>
+        <instrument>
+            <id>4</id>
+            <filename>Amp_Clap_1.flac</filename>
+            <name>Clap 1</name>
+            <volume>0.73</volume>
+            <isMuted>false</isMuted>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <exclude />
+        </instrument>
+        <instrument>
+            <id>5</id>
+            <filename>Clap_1.flac</filename>
+            <name>Clap 2</name>
+            <volume>0.96</volume>
+            <isMuted>false</isMuted>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <exclude />
+        </instrument>
+        <instrument>
+            <id>6</id>
+            <filename>FX_Chh_01.flac</filename>
+            <name>Closed HH 1</name>
+            <volume>0.89</volume>
+            <isMuted>false</isMuted>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <exclude />
+        </instrument>
+        <instrument>
+            <id>7</id>
+            <filename>Hard_CHH_01.flac</filename>
+            <name>Closed HH 2</name>
+            <volume>1</volume>
+            <isMuted>false</isMuted>
+            <pan_L>0.8</pan_L>
+            <pan_R>1</pan_R>
+            <exclude />
+        </instrument>
+        <instrument>
+            <id>8</id>
+            <filename>Hard_CHH_02.flac</filename>
+            <name>Closed HH 3</name>
+            <volume>0.82</volume>
+            <isMuted>false</isMuted>
+            <pan_L>0.86</pan_L>
+            <pan_R>1</pan_R>
+            <exclude />
+        </instrument>
+        <instrument>
+            <id>9</id>
+            <filename>CHH_1.flac</filename>
+            <name>Closed HH 4</name>
+            <volume>0.82</volume>
+            <isMuted>false</isMuted>
+            <pan_L>0.8</pan_L>
+            <pan_R>1</pan_R>
+            <exclude />
+        </instrument>
+        <instrument>
+            <id>10</id>
+            <filename>Hard_Hse_OHH_1.flac</filename>
+            <name>Open HH</name>
+            <volume>0.23</volume>
+            <isMuted>false</isMuted>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <exclude />
+        </instrument>
+        <instrument>
+            <id>11</id>
+            <filename>PowR_HH_1.flac</filename>
+            <name>Side HH</name>
+            <volume>0.8</volume>
+            <isMuted>false</isMuted>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <exclude />
+        </instrument>
+        <instrument>
+            <id>12</id>
+            <filename>PowR_HH_2.flac</filename>
+            <name>Side OHH</name>
+            <volume>0.51</volume>
+            <isMuted>false</isMuted>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <exclude />
+        </instrument>
+        <instrument>
+            <id>13</id>
+            <filename>yFX_8.flac</filename>
+            <name>Zap 1</name>
+            <volume>0.69</volume>
+            <isMuted>false</isMuted>
+            <pan_L>0.9</pan_L>
+            <pan_R>1</pan_R>
+            <exclude />
+        </instrument>
+        <instrument>
+            <id>14</id>
+            <filename>yFX_3.flac</filename>
+            <name>Zap 2</name>
+            <volume>0.8</volume>
+            <isMuted>false</isMuted>
+            <pan_L>1</pan_L>
+            <pan_R>0.94</pan_R>
+            <exclude />
+        </instrument>
+        <instrument>
+            <id>15</id>
+            <filename>xFX_6.flac</filename>
+            <name>FX</name>
+            <volume>0.77</volume>
+            <isMuted>false</isMuted>
+            <pan_L>0.96</pan_L>
+            <pan_R>1</pan_R>
+            <exclude />
+        </instrument>
+    </instrumentList>
+</drumkit_info>
