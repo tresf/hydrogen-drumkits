@@ -13,3 +13,27 @@ the licence. If no licence is specified, General Public Licence v2 (GPLv2)
 is assumed.
 
 
+Download
+========
+
+https://github.com/tresf/hydrogen-drumkits/releases
+
+Compiling
+=========
+
+Windows:
+
+Cross compile on Ubuntu 16.04:
+
+sudo add-apt-repository ppa:tobydox/mingw-w64
+sudo apt-get install git mingw-w64 mingw-w64-tools nsis
+
+git clone https://github.com/tresf/hydrogen-drumkits
+cd hydrogen-drumkits
+mkdir build target
+cd build
+../build_mingw64
+make package
+
+
+
